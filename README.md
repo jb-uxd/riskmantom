@@ -1,4 +1,4 @@
-#Our EthDenver 2022 Journey
+# Our EthDenver 2022 Journey
 
 We arrived from this Linkedin post calling on UX Designers: https://www.linkedin.com/posts/joshuadoner_uxdesigners-ux-activity-6899151435607740416-gt15?utm_source=linkedin_share&utm_medium=member_desktop_web
 
